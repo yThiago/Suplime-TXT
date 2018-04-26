@@ -1,0 +1,50 @@
+.logotipo{
+		width: 30px;
+		height: auto;
+	}
+#social{
+	text-align: center;
+	background-color: grey;
+	padding: 80px 0;
+}
+.titulo-section{
+	font-size: 32pt;
+	font-weight: bold;
+}	
+
+#social a{
+
+	color: blue;
+	font-size: 18pt;
+	padding-right: 20px;
+
+}
+#social a:hover{
+
+	color: pink;
+	transition: 1s;
+
+}
+
+#institucional{
+
+	text-align: center;
+	background-color: white;
+	padding: 80px 0;
+}
+
+.dir{
+
+	background-color: green;
+}
+
+.esq{
+	background-color: grey;
+	padding: 10px 0;
+}
+
+#atv1{
+	text-align: center;
+	background-color: white;
+	padding: 80px 0;
+}
