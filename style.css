@@ -48,3 +48,35 @@
 	background-color: white;
 	padding: 80px 0;
 }
+#blog{
+	padding-left: 42px;
+	text-align: center;
+}
+
+.titulo2{
+
+	background-color: black;
+}
+
+.image{
+	width: 200px;
+	background-color: darkgrey;
+}
+.image1{
+	width: 200px;
+	background-color: darkred;
+}
+.image2{
+	width: 200px;
+	background-color: darkgreen;
+}
+.telefone{
+	width: 50px;
+}
+.email{
+	width: 40px;
+}
+.insta{
+	width: 40px;
+}
+
